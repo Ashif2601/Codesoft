@@ -223,4 +223,4 @@ This project demonstrates GUI development, event handling, serialization, CRUD o
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/<Ashif2601>/<Codesoft>
+   git clone https://github.com/Ashif2601/Codesoft
